@@ -1,4 +1,6 @@
-Name: Siyasanga Mankhh# BrightMart PostgreSQL Tutorial
+BrightMart PostgreSQL Tutorial
+
+Name: Siyasanga Mankayi
 
 Date started: 10 November 2026
 
