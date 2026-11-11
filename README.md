@@ -10,7 +10,7 @@ PostgreSQL version: 18.6
 
 I am learning PostgreSQL by creating a database for a small shop called BrightMart
 
-# Tutorial 1- Questions.
+# Tutorial 1- Answers
 
 1. A database stores information, and a table keeps information in rows and columns.
 
@@ -30,11 +30,11 @@ customers.customer_id is a primary key.
 orders.customer_id is a foreign key because it connects orders to customers.
 
 ## Table Relationships
-The customers table stores customer details.
-One customer can place many orders.
-The orders table stores customer orders. 
-The order_items table connects orders and products. 
-The products table stores product information.
+1. One customer can place many orders.
+2. One order can contain many order items.
+3. One product can appear in many order items.
+4. The order_items table connects orders and products.
+
 
 
 
