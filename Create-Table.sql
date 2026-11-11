@@ -61,6 +61,7 @@ ORDER BY table_name;
 
 
 
+
 -- Tutorial 2 Checkpoint Answers
 
 -- 1. We keep customers and orders separate to avoid repeating information.
